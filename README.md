@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Hi, I'm Jonathan! <br/><a href="https://github.com/Jonathan-B-Peters">Programmer</a>, <a href="https://www.linkedin.com/in/jonathan-b-peters/">Engineering Professional</a>
 
-<!--
-**Jonathan-B-Peters/Jonathan-B-Peters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Blockchain Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Digital Identity on Tezos</b>
+  - [Tezos User Verification System (TUVS)](https://github.com/Jonathan-B-Peters/Tezos-User-Verification-System)
+  - [TUVS Front-end Interface](https://github.com/Jonathan-B-Peters/tuvs-dapp)
+  - [TezSnake Proof of Concept](https://github.com/Ethan-Peters/Tezos_Snake)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📺 Game Development:</h2>
+
+- [Coming Soon]()
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/jonathan-b-peters/
