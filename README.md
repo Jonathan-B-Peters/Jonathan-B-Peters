@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Jonathan!<br/><a href="https://github.com/Jonathan-B-Peters">Programmer</a>, <a href="https://www.linkedin.com/in/jonathan-b-peters/">Engineering Professional</a>
+<h1>👋 Hi, I'm Jonathan!<br/><a href="https://github.com/Jonathan-B-Peters">Smart Contract Developer</a>, <a href="https://www.linkedin.com/in/jonathan-b-peters/">Engineering Professional</a>
 
 <h2>👨‍💻 Blockchain Projects:</h2>
 
